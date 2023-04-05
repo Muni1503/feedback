@@ -6,6 +6,7 @@ body{
     justify-content: center;
     align-items: center;
     color:darkgreen;
+     overflow-x: hidden;
 }
 .container{
     background-color: aliceblue;
