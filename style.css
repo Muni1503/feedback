@@ -28,7 +28,7 @@ align-items: center;
 
 }
 .rating{
-    margin: 25px;
+    
     padding:25px;
 }
 .rating:hover,
@@ -42,7 +42,7 @@ align-items: center;
     
 }
 .btn{
-   margin-left: 30%; 
+   margin-left: 20%; 
    padding:15px 30px;
    font-size: 20px;
    background: cyan;
